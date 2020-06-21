@@ -1,0 +1,10 @@
+article: articles/example4.txt
+{'La dirección general de fiscalización de empresas, del Ministerio del Interior, inspeccionó a 1028 guardias de seguridad privada.': 1.410959053534539}
+article: articles/example5.txt
+{'"La ley de procedimiento policial habilita pedir la cédula y se hace diariamente", dijo, y acotó que a Lacalle "lo asesoran expolicías que se fueron cuando había fax".': 1.347582700251579}
+article: articles/example1.txt
+{'Paralelamente, se dispone una “adecuación organizativa” en la Administración Central, facultando al Poder Ejecutivo a aprobar las reestructuras organizativas que suponen “crear, suprimir, transformar y fusionar unidades ejecutoras, así como modificar sus denominaciones”.': 1.5009142778046272}
+article: articles/example2.txt
+{'Y por eso que hasta los votantes del Frente Amplio reclaman un cambio en la política de seguridad pública, según dijo Rafael Porzecanski, director de opinión pública de Opción Consultores, en una entrevista publicada ayer en El Observador.': 1.4362555762935312}
+article: articles/example3.txt
+{'Y por eso que hasta los votantes del Frente Amplio reclaman un cambio en la política de seguridad pública, según dijo Rafael Porzecanski, director de opinión pública de Opción Consultores, en una entrevista publicada ayer en El Observador.': 1.4362555762935312}
