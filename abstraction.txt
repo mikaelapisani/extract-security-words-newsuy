@@ -1,0 +1,10 @@
+article: articles/example4.txt
+
+article: articles/example5.txt
+ En Uruguay los policías ya lo hacen todos los días. Le doy más detalles. En 2018 se solicitó cédula a 33.357 personas. En 2018 se solicitó su identidad y sus documentos a 109.930 personas. En 2018 se solicitó cédula e identificación a 334.333 personas.
+article: articles/example1.txt
+ En tal sentido, se delimitan los espacios en los que se puede ejercer. Fija en 30 años la pena por sicariato. En tanto, quienes rompan o dañen las tobilleras irán a la cárcel y pagarán una multa. Foto :Francisco Flores. Piquetes “ilegítimos” y el uso de la fuerza. Con ese cometido, se podrá requerir “en forma directa el auxilio de otros organismos públicos”.
+article: articles/example2.txt
+ Sin resolver estos problemas muy hondos, no atacaremos en serio el drama de la inseguridad.
+article: articles/example3.txt
+ Sin resolver estos problemas muy hondos, no atacaremos en serio el drama de la inseguridad.
